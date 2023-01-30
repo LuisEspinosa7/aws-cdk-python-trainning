@@ -25,10 +25,10 @@ class LambdaBasicCronStack(Stack):
             self, 
             "Rule",
             schedule=_events.Schedule.cron(
-                minute='1',
+                minute='*', # Every minute
                 hour='*',
                 month='*',
-                week_day='MON-FRI',
+                week_day='1-7',
                 year='*'
             )
         )

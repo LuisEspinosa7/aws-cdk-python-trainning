@@ -51,4 +51,4 @@ $ cdk destroy
 
 | Name    | Description |
 |---------|-------------|
-| [api-cors-lambda](https://github.com/aws-samples/aws-cdk-examples/tree/master/python/api-cors-lambda/) | Shows creation of Rest API (GW) with an /example GET endpoint, with CORS enabled |
+| [api-cors-lambda](https://github.com/aws-samples/aws-cdk-examples/tree/master/python/api-cors-lambda/) | Basic Lambda with EventBridge scheduled event |
