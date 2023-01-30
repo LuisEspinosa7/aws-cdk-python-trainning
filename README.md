@@ -51,4 +51,4 @@ $ cdk destroy
 
 | Name    | Description |
 |---------|-------------|
-| [api-cors-lambda](https://github.com/aws-samples/aws-cdk-examples/tree/master/python/api-cors-lambda/) | Basic Lambda with EventBridge scheduled event |
+| [lambda-basic-cron](https://github.com/LuisEspinosa7/aws-cdk-python-trainning/tree/main/lambda-basic-cron) | Basic Lambda with EventBridge scheduled event |
